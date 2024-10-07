@@ -8,6 +8,7 @@ public class App{
     }
     else 
     {System.out.println("Numbers are not equal.");
+     // code
 }
 }
 }
