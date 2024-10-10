@@ -7,7 +7,8 @@ public class App{
         {
         System.out.println("Numbers are equal.");
     }
-    else 
+    //adding else condition
+    else
     {
         //printing else condition
         System.out.println("Numbers are not equal.");
